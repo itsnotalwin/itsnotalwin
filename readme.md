@@ -3,14 +3,14 @@
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 <p>
-  Hello There! <em><b>I'm ITSNOTALWIN</b></em>, a builder, creator, and explorer. I operate in the spaces between — where ideas crystallize into code, and problems dissolve into elegant solutions. Multi-domain explorer. Pattern seeker. System architect.
+  Hello There! <em><b>I'm Alwin Newman</b></em>, an operations-focused logistics professional and builder. By day I coordinate import/export shipments, customs documentation, and freight workflows at Expo Freight CC. By night I explore code — turning operational problems into elegant, automated solutions.
 </p>
 <br/>
 <p align="center">
-  <em><b>🎓 [Your University / Degree]</b></em><br/>
-  <em><b>💼 [Your Role / Company]</b></em><br/>
-  <em><b>🏆 [Your Achievement, e.g. Hackathon / Competition]</b></em><br/>
-  <em><b>♟️ [A personal interest, e.g. Chess Player]</b></em><br/>
+  <em><b>🚢 Customs & Logistics Coordinator — Expo Freight CC</b></em><br/>
+  <em><b>🌍 English Language Instructor — Likeshou, China (2017–2019)</b></em><br/>
+  <em><b>📷 Freelance Photographer</b></em><br/>
+  <em><b>📍 Gauteng, South Africa</b></em><br/>
 </p>
 <br/>
 <br/>
