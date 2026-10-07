@@ -51,5 +51,5 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnotalwin&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=6" height="165"/>
   <br/><br/>
-  <img src="https://badges.pufler.dev/commits/weekly/itsnotalwin" width="100%"/>
+  <img src="https://ghchart.rshah.org/itsnotalwin" width="100%"/>
 </div>
